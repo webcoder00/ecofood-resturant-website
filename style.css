@@ -217,3 +217,9 @@ footer h2{
     padding: 10px;
     transform: scale(1.1);
 }
+.copyright p{
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 600;
+    margin-top: 10px;
+}
