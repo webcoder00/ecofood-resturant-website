@@ -19,7 +19,6 @@ html{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    /* background-color: ; */
     margin-top: 10px;
 }
 .logo{
